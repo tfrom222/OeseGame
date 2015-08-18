@@ -1,0 +1,14 @@
+D:\Users\Tobias\Documents\LUATest\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Users\Tobias\Documents\LUATest\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Users\Tobias\Documents\LUATest\Temp\bin\Debug\UnityEditor.dll
+D:\Users\Tobias\Documents\LUATest\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Users\Tobias\Documents\LUATest\Temp\bin\Debug\UnityEngine.dll
+D:\Users\Tobias\Documents\LUATest\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Users\Tobias\Documents\LUATest\Temp\bin\Debug\Mono.Cecil.dll
+D:\Users\Tobias\Documents\LUATest\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Users\Tobias\Documents\LUATest\Temp\bin\Debug\Unity.DataContract.dll
+D:\Users\Tobias\Documents\LUATest\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Users\Tobias\Documents\LUATest\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Users\Tobias\Documents\LUATest\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\Users\Tobias\Documents\LUATest\obj\Debug\Assembly-CSharp.dll
+D:\Users\Tobias\Documents\LUATest\obj\Debug\Assembly-CSharp.pdb
